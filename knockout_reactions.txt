@@ -1,0 +1,11 @@
+Reaction name;Reaction;Involved genes
+heme a transport;HEMEAtm: hemeA_m <=> hemeA_c;
+Heme O synthase;HEMEOSm: frdp_m + h2o_m + pheme_m --> hemeO_m + ppi_m;YPL172C
+isocitrate dehydrogenase;ICDHym: icit_m + nadp_m --> akg_m + co2_m + nadph_m;YDL066W
+2-isopropylmalate synthase;IPPSm: 3mob_m + accoa_m + h2o_m --> 3c3hmp_m + coa_m + h_m;YNL104C
+farnesyl diphosphate transport;FRDPtm: frdp_c <=> frdp_m;
+oxoglutarate dehydrogenase (dihydrolipoamide S-succinyltransferase);AKGDbm: coa_m + sdhlam_m --> dhlam_m + succoa_m;YDR148C and YFL018C and YIL125W
+heme O monooxygenase;HEMEOMOm: hemeO_m + nadh_m + o2_m --> h2o_m + hemeA_m + nad_m;YER141W or ( YDR376W and YPL252C )
+glycine-cleavage complex (lipoamide);GCC2cm: dhlam_m + nad_m --> h_m + lpam_m + nadh_m;( YAL044C and YDR019C and YFL018C and YMR189W ) or ( YDR148C and YFL018C and YIL125W )
+2-isopropylmalate transport;3C3HMPtm: 3c3hmp_c <=> 3c3hmp_m;YKL120W
+oxoglutarate dehydrogenase (lipoamide);AKGDam: akg_m + h_m + lpam_m --> co2_m + sdhlam_m;YDR148C and YFL018C and YIL125W

@@ -1,0 +1,198 @@
+Fold change;Reaction/enzyme;Short enzyme name
+21.7;glycogen (starch) synthase;GLYSTASYN
+14.1;sodium proton antiporter;NAt3_1
+10.3;malic enzyme (NADP);ME2m
+9.63;transketolase 2;TKT2
+9.00;;rHb
+9.00;;EX_rHb
+8.99;porphobilinogen synthase;PPBNGS
+8.99;5-aminolevulinate transport;5AOPtm
+8.99;5-aminolevulinate synthase;ALASm
+8.99;uroporphyrinogen decarboxylase (uroporphyrinogen III);UPPDC1
+8.99;coproporphyrinogen oxidase (O2 required);CPPPGO
+8.99;ferrochelatase;FCLTm
+8.99;uroporphyrinogen-III synthase;UPP3S
+8.99;iron (II) transport;FE2utm
+8.99;protoporphyrinogen IX transport;PPPG9tm
+8.99;hydroxymethylbilane synthase;HMBS
+8.99;protoporphyrinogen oxidase;PPPGOm
+8.95;iron (II) transport;FE2t
+5.13;valine transaminase, mitochondiral;VALTAim
+5.13;valine transport;VALt5m
+4.94;cystathionine beta-synthase;CYSTS
+4.57;UTP-glucose-1-phosphate uridylyltransferase;GALUi
+4.06;ribulose 5-phosphate 3-epimerase;RPE
+3.87;imidazoleglycerol-phosphate dehydratase;IGPDH
+3.87;Imidazole-glycerol-3-phosphate synthase;IG3PS
+3.87;phosphoribosyl-AMP cyclohydrolase;PRAMPC
+3.87;histidinol-phosphate transaminase;HSTPT
+3.87;histidinol-phosphatase;HISTP
+3.87;histidinol dehydrogenase;HISTD
+3.87;phosphoribosyl-ATP pyrophosphatase;PRATPP
+3.87;1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino)imidazole-4-carboxamide isomerase;PRMICI
+3.87;ATP phosphoribosyltransferase;ATPPRT
+3.74;nucleoside-diphosphate kinase (ATP:UDP);NDPK2
+3.56;O-succinylhomoserine lyase (L-cysteine);SHSL1
+3.56;O4-succinyl-L-homoserine:hydrogen sulfide S-(3-amino-3-carboxypropyl)transferase; O-succinyl-L-homoserine succinate-lyase (adding hydrogen sulfide);SHSL2
+3.34;L-glutamate transport;GLUt7m
+3.27;malate dehydrogenase, cytoplasmic;MDH
+2.82;homoserine kinase;HSK
+2.82;threonine synthase;THRS
+2.82;sedoheptulose 1,7-bisphosphate D-glyceraldehyde-3-phosphate-lyase;FBA3
+2.82;phosphofructokinase (s7p);PFK_3
+2.82;transketolase 1;TKT1
+2.61;homoserine dehydrogenase (NADH);HSDxi
+2.61;aspartate kinase;ASPK
+2.61;aspartate-semialdehyde dehydrogenase;ASAD
+2.38;phosphogluconate dehydrogenase;GND
+2.38;glucose 6-phosphate dehydrogenase;G6PDH2r
+2.38;6-phosphogluconolactonase;PGL
+2.28;Pyrophosphate transport in via proton symport;PYRTRAINPROSYM
+2.19;oxoglutarate/malate exchange;AKGMALtm
+2.19;sulfate adenylyltransferase (ADP);SLFAT
+2.19;adenylyl-sulfate kinase;ADSK
+2.19;sulfite reductase (NADPH2);SULR
+2.19;phosphoadenylyl-sulfate reductase (thioredoxin);PAPSR
+2.19;3',5'-bisphosphate nucleotidase;BPNT
+2.11;phosphate transport;PIt2r
+1.90;3-isopropylmalate dehydratase;IPPMIa
+1.90;leucine transaminase;LEUTA
+1.90;2-oxo-4-methyl-3-carboxypentanoate decarboxylation;OMCDC
+1.90;3-isopropylmalate dehydrogenase;IPMD
+1.90;2-isopropylmalate hydratase;IPPMIb
+1.87;dihydroxy-acid dehydratase (2,3-dihydroxy-3-methylbutanoate);DHAD1m
+1.87;acetohydroxy acid isomeroreductase;ACEACIISO
+1.87;acetolactate synthase;ACESYN
+1.87;pyruvate carboxylase;PC
+1.85;O-acetylhomoserine (thiol)-lyase;AHSERL2
+1.85;homoserine O-trans-acetylase;HSERTA
+1.84;thioredoxin reductase (NADPH);TRDR
+1.75;prephenate dehydratase;PPNDH
+1.75;phenylalanine transaminase;PHETA1
+1.66;sulfate uniport;SO4ti
+1.55;L-Alanine:2-oxoglutarate aminotransferase;ALATA_L
+1.50;asparagine synthase (glutamine-hydrolysing);ASNS1
+1.43;ribose-5-phosphate isomerase;RPI
+1.35;adenylosuccinate synthase;ADSS
+1.35;adenylosuccinate lyase;ADSL1r
+1.33;chorismate mutase;CHORM
+1.25;pyrroline-5-carboxylate reductase;P5CR
+1.25;ornithine transaminase;ORNTA
+1.25;L-glutamate 5-semialdehyde dehydratase;G5SADs
+1.08;2-aminoadipate transaminase;AATA
+1.08;2-methylcitrate dehydratase;2METDEH
+1.08;homocitrate synthase;HOMSYN2
+1.08;homoacontinate hydratase;HACNHm
+1.08;homoisocitrate dehydrogenase;HOMDEH
+1.08;L-aminoadipate-semialdehyde dehydrogenase (NADPH);AASAD1
+1.08;saccharopine dehydrogenase (NAD, L-lysine forming);SACCD2
+1.08;2-oxoadipate and 2-oxoglutarate transport;2OXOADPTm
+1.08;saccharopine dehydrogenase (NADP, L-glutamate forming);SACCD1
+1.06;phosphoribosylaminoimidazolecarboxamide formyltransferase;AICART
+1.06;inosine monophosphate cyclohydrolase;IMPC
+1.00;bicarbonate formation;HCO3E
+0.88;aspartate transaminase;ASPTA
+0.85;shikimate dehydrogenase;SHK3Dr
+0.85;3-dehydroquinate dehydratase;DHQTi
+0.85;3-dehydroquinate synthase;DHQS
+0.85;2-dehydro-3-deoxy-D-arabino-heptonate7-phohsphate transport;2DDA7Ptm
+0.85;3-phosphoshikimate 1-carboxyvinyltransferase;PSCVT
+0.85;chorismate synthase;CHORS
+0.85;shikimate kinase;SHKK
+0.85;citrate transport;CITtbm
+0.85;2-deoxy-D-arabino-heptulosonate 7-phosphate synthetase;DDPAm
+0.85;D-erythrose 4-phosphate transport;E4Ptm
+0.79;ammonia transport;NH4t
+0.75;N-acetyl-g-glutamyl-phosphate reductase;AGPRim
+0.75;acetylglutamate kinase;ACGKm
+0.75;ornithine transport;ORNt3m
+0.75;ornithine transacetylase;ORNTACim
+0.75;acteylornithine transaminase;ACOTAim
+0.70;prephenate dehydrogenase (NADP);PPND2
+0.70;tyrosine transaminase;TYRTA
+0.67;phosphoglycerate mutase;PGM
+0.67;enolase;ENO
+0.65;pyruvate kinase;PYK
+0.46;glutamine synthetase;GLNS
+0.37;citrate hydroxymutase;ACONTm
+0.37;malate dehydrogenase;MDHm
+0.37;citrate synthase;CSm
+0.37;fumarase, cytoplasmic;FUM
+0.28;acetyl-CoA synthetase;ACS
+0.20;phosphoribosylpyrophosphate synthetase;PRPPS
+0.20;aldehyde dehydrogenase (acetaldehyde, NADP);ALDD2y
+0.18;argininosuccinate lyase;ARGSL
+0.18;argininosuccinate synthase;ARGSS
+0.18;ornithine carbamoyltransferase;OCBT
+0.08;glyceraldehyde-3-phosphate dehydrogenase;GAPD
+0.08;phosphoglycerate kinase;PGK
+0.05;water diffusion;H2Ot
+0.01;glutamate dehydrogenase (NADP);GLUDy
+0.01;triose-phosphate isomerase;TPI
+0.00;pyruvate transport;PYRt2m
+-0.0;pyruvate dehydrogenase;PDHm
+-0.1;pyruvate decarboxylase;PYRDC
+-0.8;phosphatidyl-L-serine (1-16:1, 2-16:1) transport, ER membrane-mitochondrial membrane;PS161161trmmm
+-0.8;phosphatidylethanolamine (1-16:1, 2-16:1) transport, mitochondrial membrane-ER membrane;PE161tmmrm
+-0.8;PS decarboxylase (1-16:1, 2-16:1), mitochondrial membrane;PSDEC161161mm
+-0.8;oleoyl-CoA transport, cytoplasm-lipid particle;OCDCE9COAtlp
+-0.8;glycerol 3-phosphate transport, cytoplasm-lipid particle;GLYC3Ptlp
+-0.8;phosphatidylcholine (1-16:0, 2-18:1) [endoplasmic reticulum membrane] SLIME rxn;pc160181SLIMErm
+-0.8;palmitoyl-CoA transport, cytoplasm-lipid particle;PMTCOAtlp
+-0.8;1-acyl-sn-glycerol-3-phosphate acyltransferase (1-16:0, 2-18:1), lipid particle;AGPATR13160181lp
+-0.8;PS synthase (1-16:0, 2-18:1), ER membrane;PSSYN160181rm
+-0.8;phosphatidyl-L-serine (1-16:0, 2-18:1) transport, ER membrane-mitochondrial membrane;PS160181trmmm
+-0.8;glycerol-3-phosphate acyltransferase (16:0), lipid particle;3PAT160lp
+-0.8;phosphatidylethanolamine (1-16:0, 2-18:1) transport, mitochondrial membrane-ER membrane;PE160181tmmrm
+-0.8;CDP-diacylglycerol synthase (1-16:0, 2-18:1), ER membrane;CDSYN160181rm
+-0.8;PS decarboxylase (1-16:0, 2-18:1), mitochondrial membrane;PSDEC160181mm
+-0.8;PE methyltransferase (1-16:0, 2-18:1), ER membrane;PEMET160181rm
+-0.8;oleoyl-CoA transport, cytoplasm-ER membrane;OCDCE9COAtrm
+-0.8;phosphatidyl-N-methylethanolamine methyltransferase (1-16:0, 2-18:1), ER membrane;PMMET160181rm
+-0.8;phosphatidyl-N,N-dimethylethanolamine methyltransferase (1-16:0, 2-18:1), ER membrane;PDMET160181rm
+-0.8;phosphatidate (1-16:0, 2-18:1) transport, lipid particle-ER membrane;PA160181tlprm
+-0.8;PS synthase (1-16:1, 2-16:1), ER membrane;PSSYN161161rm
+-0.8;diglyceride (1-18:1, 2-18:1) transport, cytoplasm-lipid particle;12DGR181tlp
+-0.8;PC (1-16:1, 2-16:1) diacylglycerol (1-16:1, 2-16:1) acyltransferase, ER membrane;PLDAGAT161161161161rm_copy1
+-0.8;PC (1-16:1, 2-16:1) diacylglycerol (1-18:1, 2-18:1) acyltransferase, ER membrane;PCDATR161161181181rm
+-0.8;palmitoleoyl-CoA transport, cytoplasm-lipid particle;HDCOAtlp
+-0.8;diacylglycerol acyltransferase (1-18:1, 2-18:1, 3-16:1), lipid particle;DATR181181161lp
+-0.8;diglyceride (1-18:1, 2-18:1) transport, cytoplasm-ER membrane;12DGR181trm
+-0.8;palmitoleoyl-CoA transport, cytoplasm-ER membrane;HDCOAtrm
+-0.8;TAG (1-18:1, 2-18:1, 3-16:1) transport, ER membrane-lipid particle;TAG181181161trmlp
+-0.8;coenzyme A: cytoplasm to LP;COAtlp
+-0.8;phosphatidyl-N-methylethanolamine methyltransferase (1-16:1, 2-16:1), ER membrane;PMMET161161rm
+-0.8;PE methyltransferase (1-16:1, 2-16:1), ER membrane;PEMET161161rm
+-0.8;phosphatidylcholine (1-16:1, 2-16:1) [endoplasmic reticulum membrane] SLIME rxn;pc161SLIMErm
+-0.8;phosphatidyl-N,N-dimethylethanolamine methyltransferase (1-16:1, 2-16:1), ER membrane;PDMET161161rm
+-0.8;mevalonate kinase (UTP);MEVK4
+-0.8;1-acyl-sn-glycerol-3-phosphate acyltransferase (1-16:1, 2-16:1), ER membrane;AGPATR13161161rm
+-0.8;CDP-diacylglycerol synthase (1-16:1, 2-16:1), ER membrane;CDSYN161161rm
+-0.8;ribonucleotide reductase;RNDR1
+-0.8;guanylate kinase;GK1
+-1.0;heme a transport;HEMEAtm
+-1.0;Heme O synthase;HEMEOSm
+-1.0;isocitrate dehydrogenase;ICDHym
+-1.0;2-isopropylmalate synthase;IPPSm
+-1.0;farnesyl diphosphate transport;FRDPtm
+-1.0;oxoglutarate dehydrogenase (dihydrolipoamide S-succinyltransferase);AKGDbm
+-1.0;heme O monooxygenase;HEMEOMOm
+-1.0;glycine-cleavage complex (lipoamide);GCC2cm
+-1.0;2-isopropylmalate transport;3C3HMPtm
+-1.0;oxoglutarate dehydrogenase (lipoamide);AKGDam
+nan;2-isopropylmalate synthase;IPPS
+nan;acetyl-CoA C-acetyltransferase;ACACT1r
+nan;acetyl-CoA synthetase;ACSm
+nan;adenylate kinase;ADK1m
+nan;cystathionine g-lyase;CYSTGL
+nan;fumarase;FUMm
+nan;glutamate synthase (NADH2);GLUSx
+nan;glycogen phosphorylase;GLCP
+nan;hydroxymethylglutaryl CoA synthase;HMGCOAS
+nan;isoleucine transaminase;ILETAm
+nan;threonine aldolase;THRA
+nan;valine transaminase;VALTA
+nan;succinyl-CoA:acetate CoA transferase;SUCOAACTm
+nan;L-isoleucine transport;ILEtmi
+nan;Sodium transport ATPase 5 (EC 3.6.3.7);NAabcO
+nan;succinate:NAD+ oxidoreductase;FRD2m
